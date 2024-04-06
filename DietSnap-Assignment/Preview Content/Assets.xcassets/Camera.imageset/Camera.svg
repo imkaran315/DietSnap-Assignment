@@ -1,0 +1,28 @@
+<svg width="26" height="21" viewBox="0 0 26 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="26" height="21" fill="#F5F5F5"/>
+<g clip-path="url(#clip0_3231_56)">
+<rect width="375" height="1028" transform="translate(-174 -987)" fill="white"/>
+<g filter="url(#filter0_b_3231_56)">
+<rect x="-174" y="-8" width="375" height="49" fill="#F8F8F8" fill-opacity="0.921569"/>
+</g>
+<g clip-path="url(#clip1_3231_56)">
+<g opacity="0.36">
+<path d="M24.3243 20.5011H1.6758C0.75176 20.5011 0 19.7417 0 18.8082V5.5098C0 4.57633 0.75176 3.8169 1.6758 3.8169H5.6628C5.97281 3.8169 6.26249 3.66348 6.4377 3.4065L8.2917 0.6696C8.57629 0.30036 9.18188 0 9.6417 0H16.3593C16.8204 0 17.4256 0.30038 17.7084 0.6696L19.5543 3.3912C19.7353 3.65776 20.0344 3.8169 20.3544 3.8169H24.3243C25.2483 3.8169 26.0001 4.57633 26.0001 5.5098V18.8082C26.0001 19.7417 25.2483 20.5011 24.3243 20.5011ZM13.0005 5.5125C9.59416 5.5125 6.8229 8.31323 6.8229 11.7558C6.8229 15.1989 9.59416 18 13.0005 18C16.4063 18 19.1772 15.1989 19.1772 11.7558C19.1772 8.31323 16.4063 5.5125 13.0005 5.5125ZM20.1294 5.0877C19.6669 5.0877 19.2906 5.46843 19.2906 5.9364C19.2906 6.40388 19.6669 6.7842 20.1294 6.7842C20.5919 6.7842 20.9682 6.40388 20.9682 5.9364C20.9682 5.46843 20.5919 5.0877 20.1294 5.0877ZM13.0005 16.866C10.2145 16.866 7.9479 14.5748 7.9479 11.7585C7.9479 8.94172 10.2145 6.6501 13.0005 6.6501C15.7865 6.6501 18.0531 8.94172 18.0531 11.7585C18.0531 14.5748 15.7865 16.866 13.0005 16.866ZM5.0319 2.5443H1.6767V1.6965C1.6767 1.22902 2.05298 0.8487 2.5155 0.8487H4.194C4.65602 0.8487 5.0319 1.22902 5.0319 1.6965V2.5433V2.5443Z" fill="black"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_3231_56" x="-184" y="-18" width="395" height="69" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_3231_56"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_3231_56" result="shape"/>
+</filter>
+<clipPath id="clip0_3231_56">
+<rect width="375" height="1028" fill="white" transform="translate(-174 -987)"/>
+</clipPath>
+<clipPath id="clip1_3231_56">
+<rect width="26.0001" height="20.5011" fill="white"/>
+</clipPath>
+</defs>
+</svg>
